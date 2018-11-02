@@ -10,3 +10,7 @@ neither are 5 and 6. We do not care about the path, 1 and 2 are connected both d
 
 This repository contains a solution for above problem which helps to create network where we can connect nodes and query whether two nodes are connected or not. Hope this helps :)
 
+## How to use?
+
+I have written couple of test cases in this class `NetworkTest.java` so you will get better idea, you may fork the repo and play yourself around it to test and suggest me suggestions/bugs via pull request! Happy Coding :)
+
